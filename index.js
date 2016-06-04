@@ -1,3 +1,1 @@
-module.export = {
-  promiseWhile : require('./lib/qpm_queue')
-}
+module.exports = require('./lib/qpm_queue')
